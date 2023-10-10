@@ -5,4 +5,3 @@ The skills demonstrated after this project is complete are:
     - Website structure
     - HTML Elements
     - git Commands
-    - Code
